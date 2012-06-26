@@ -43,10 +43,16 @@ public interface HTMLConstants {
     
     public static final String ALT_KEY = "alt";
     
-    public static final String ACTION_KEY = "action";
+	public static final String ACTION_KEY = "action";
     
-    public static final String METHOD_KEY = "method";
-    
+	public static final String METHOD_KEY = "method";
+	
+	public static final String FOR_KEY = "for";
+	
+	public static final String CHECKED_KEY ="checked";
+	
+	public static final String ID_KEY ="id";
+	
     /**
      * ATTRIBUTE VALUES
      */
@@ -58,6 +64,10 @@ public interface HTMLConstants {
     public static final String RADIO_ATTR = "radio";
     
     public static final String SUBMIT_ATTR = "submit";
+	
+	public static final String TRUE_ATTR = "true";
+	
+	public static final String FALSE_ATTR = "false";
     
     /**
      * SYMBOLS
